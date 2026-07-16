@@ -22,7 +22,7 @@
 
 ### ⋆ about
 
-- writing on-chain logic in **Rust**, deployed straight to Solana — no Solidity needed
+- writing on-chain logic in **Rust**, deployed straight to Solana
 - building the bridge between chains and interfaces: APIs, auth, real-time state
 - quiet by design — the code should be the only thing that speaks
 
@@ -57,10 +57,6 @@
 
 ### ⋆ stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=a37ra&show_icons=true&theme=transparent&hide_border=true&title_color=8FBF8F&icon_color=7A2436&text_color=F5F5F5" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a37ra&layout=compact&theme=transparent&hide_border=true&title_color=8FBF8F&text_color=F5F5F5" />
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=a37ra&theme=transparent&hide_border=true&ring=8FBF8F&fire=7A2436&currStreakLabel=8FBF8F&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=F5F5F5" />
