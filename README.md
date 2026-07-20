@@ -5,28 +5,14 @@
 <div align="center">
 
 <br>
-
 <sub>⋆ ˚ ｡ ⋆ ｡ ⋆ ˚ ✦ ˚ ⋆ ｡ ⋆ ˚ ⋆</sub>
-
 # ASTRA
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=8FBF8F&center=true&vCenter=true&width=560&lines=Rust+smart+contracts+%2F+Solana;building+what+doesn%27t+break+on-chain" alt="typing" />
-
 </div>
 
 <br>
 
 ---
 
-<br>
-
-### ⋆ about
-
-- writing on-chain logic in **Rust**, deployed straight to Solana
-- building the bridge between chains and interfaces: APIs, auth, real-time state
-- quiet by design — the code should be the only thing that speaks
-
-<br>
 
 ---
 
