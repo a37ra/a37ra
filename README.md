@@ -47,7 +47,7 @@
 
 <div align="center">
 
-[telegram](https://t.me/a3trael) &nbsp;⋆&nbsp; [mail](mailto:a37tra@proton.me) &nbsp;⋆&nbsp;
+[telegram](https://t.me/a3trael) &nbsp;⋆&nbsp; [mail](mailto:a37tra@proton.me)
 
 <sub><img src="https://komarev.com/ghpvc/?username=a37ra&color=8FBF8F&style=flat&label=" /></sub>
 
