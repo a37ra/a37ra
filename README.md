@@ -11,9 +11,10 @@
 ---
 
 ### ⋆ stack
-### Currently Using:
+### Currently Using
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,cpp,git,linux&theme=dark" />
 <br><br>
 <img src="https://img.shields.io/badge/Vercel-0D1321?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Figma-0D1321?style=for-the-badge&logo=figma&logoColor=F24E1E" />
@@ -21,14 +22,14 @@
 
 <br>
 
-### Roadmap & Target Stack:
+### Roadmap & Target Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,express,postgres,prisma,docker,rust,threejs&theme=dark" />
 <br><br>
 <img src="https://img.shields.io/badge/Solana-0D1321?style=for-the-badge&logo=solana&logoColor=8FBF8F" />
 <img src="https://img.shields.io/badge/Anchor-0D1321?style=for-the-badge&logoColor=8FBF8F" />
-<img src="https://img.shields.io/badge/web3.js-0D1321?style=for-the-badge&logo=web3dotjs&logoColor=8FBF8F" />
+<img src="https://img.shields.io/badge/web3.js-0D1321?style=for-the-badge&logoColor=8FBF8F" />
 <img src="https://img.shields.io/badge/JWT-0D1321?style=for-the-badge&logo=jsonwebtokens&logoColor=8FBF8F" />
 <img src="https://img.shields.io/badge/Railway-0D1321?style=for-the-badge&logo=railway&logoColor=7A2436" />
 <img src="https://img.shields.io/badge/Render-0D1321?style=for-the-badge&logo=render&logoColor=7A2436" />
