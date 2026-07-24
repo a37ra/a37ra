@@ -14,7 +14,7 @@
 ### Currently Using
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,cpp,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,git,linux&theme=dark" />
 <br><br>
 <img src="https://img.shields.io/badge/Vercel-0D1321?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Figma-0D1321?style=for-the-badge&logo=figma&logoColor=F24E1E" />
