@@ -11,8 +11,20 @@
 ---
 
 ### ⋆ stack
+### Currently Using:
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nestjs,express,postgres,prisma,docker,linux,git,rust,threejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,git,linux&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Vercel-0D1321?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Figma-0D1321?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</div>
+
+<br>
+
+### Roadmap & Target Stack:
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,express,postgres,prisma,docker,rust,threejs&theme=dark" />
 <br><br>
 <img src="https://img.shields.io/badge/Solana-0D1321?style=for-the-badge&logo=solana&logoColor=8FBF8F" />
 <img src="https://img.shields.io/badge/Anchor-0D1321?style=for-the-badge&logoColor=8FBF8F" />
