@@ -39,7 +39,7 @@
 
 ### ⋆ stats
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=a37ra&theme=transparent&hide_border=true&ring=8FBF8F&fire=7A2436&currStreakLabel=8FBF8F&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=F5F5F5" />
+  <img src="https://streak-stats.uptimerobot.net/?user=a37ra&theme=transparent&hide_border=true&ring=8FBF8F&fire=7A2436&currStreakLabel=8FBF8F&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=F5F5F5" />
 </div>
 
 ---
