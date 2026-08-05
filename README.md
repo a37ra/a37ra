@@ -44,13 +44,6 @@
 
 ---
 
-### ⋆ activity this year
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=a37ra&bg_color=0D1321&color=8FBF8F&line=7A2436&point=F5F5F5&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
 ### ⋆ trail
 <div align="center">
 <img src="https://raw.githubusercontent.com/a37ra/a37ra/output/github-contribution-grid-snake-dark.svg" />
