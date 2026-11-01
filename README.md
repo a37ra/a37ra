@@ -26,19 +26,6 @@
 
 <br>
 
-### Roadmap & Target Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,express,postgres,prisma,docker,threejs&theme=dark" />
-<br><br>
-
-<img src="https://img.shields.io/badge/Anchor-0D1321?style=for-the-badge&logoColor=8FBF8F" />
-<img src="https://img.shields.io/badge/web3.js-0D1321?style=for-the-badge&logoColor=8FBF8F" />
-<img src="https://img.shields.io/badge/JWT-0D1321?style=for-the-badge&logo=jsonwebtokens&logoColor=8FBF8F" />
-<img src="https://img.shields.io/badge/Railway-0D1321?style=for-the-badge&logo=railway&logoColor=7A2436" />
-<img src="https://img.shields.io/badge/Render-0D1321?style=for-the-badge&logo=render&logoColor=7A2436" />
-</div>
-
 ---
 
 ### ⋆ stats
